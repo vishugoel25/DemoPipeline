@@ -1,3 +1,3 @@
 Hi,
-Practicing git for project for my office work.
+Practicing git for a RBS project.
 This is a CICD mainframe work
