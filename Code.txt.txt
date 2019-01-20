@@ -1,0 +1,2 @@
+Hi,
+Practicing git for project
